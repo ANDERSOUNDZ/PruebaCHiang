@@ -41,3 +41,4 @@ It is expected that the resulting board is stored in the "initialBoard" variable
 - The '**showInitialBoard**' method is already implemented. You must NOT delete this method, neither its implementation nor its use.
 
 **TO CONSIDER:** We know of the existence of answer for this question on the internet, but we would like to know you analytic skills to solve this problem. We hope you have good alogoritmic skills to work properly within our team.
+# juego2
